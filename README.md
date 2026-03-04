@@ -7,6 +7,8 @@
 
 An MVP for B2B SaaS teams to prioritize accounts at churn risk and identify expansion opportunities.
 
+Built with **OpenClaw**.
+
 ## Value proposition
 
 This agent **does not predict for prediction’s sake**:
@@ -81,6 +83,10 @@ streamlit run src/app.py
    - `python src/train.py`
    - `python src/predict_and_plan.py`
 3. If you want the UI, run Streamlit locally on your machine.
+
+## Demo
+
+A 3-minute walkthrough demo is available on request.
 
 ## 60-second demo script
 
