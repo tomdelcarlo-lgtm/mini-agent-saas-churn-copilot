@@ -34,3 +34,5 @@ data/predictions.csv
 # Keep sample templates/versioned docs
 !data/input_template.csv
 !data/data_quality_report.md
+
+.Rhistory
